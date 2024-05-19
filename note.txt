@@ -1,0 +1,8 @@
+get the likes playlist
+get the songs liked today a year ago
+
+
+get the 2023 playlist
+add the "gotten" songs to the playlist
+
+end
